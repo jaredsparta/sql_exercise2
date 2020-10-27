@@ -48,10 +48,9 @@
     SELECT COUNT(OrderID) FROM Orders WHERE EmployeeID = 5 OR EmployeeID = 7;
     ```
     
-    ![](images/A6.png)
+    ![](images/a6.png)
 
     <br>
-
 
 # Question 3
 ![](images/q3.png)
