@@ -1,4 +1,4 @@
-# SQL Exercise 2
+# Question 1
 
 ![](images/q1.png)
 
@@ -27,6 +27,8 @@
     ![](images/a3.png)
 
 <br>
+
+# Question 2
 
 ![](images/q2.png)
 
