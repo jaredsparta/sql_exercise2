@@ -53,6 +53,7 @@
 <br>
 
 # Question 3
+
 ![](images/q3.png)
 
 1. ```sql
