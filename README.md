@@ -39,13 +39,13 @@
     ![](images/a4.png)
 
 2. ```sql
-    SELECT * FROM Categories WHERE CategoryName LIKE 'B%' OR CategoryName LIKE 'S%';
+    SELECT * FROM Categories WHERE CategoryName LIKE '[BS]%';
     ```
 
     ![](images/a5.png)
 
 3. ```sql
-    SELECT COUNT(OrderID) FROM Orders WHERE EmployeeID = 5 OR EmployeeID = 7;
+    SELECT COUNT(OrderID) FROM Orders WHERE EmployeeID IN (5,7);
     ```
 ANSWER : 114
 
