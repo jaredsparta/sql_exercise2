@@ -51,6 +51,7 @@
     <br>
 
 
+# Question 3
 ![](images/q3.png)
 
 1. ```sql
@@ -61,6 +62,7 @@
 
 <br>    
 
+# Question 4
 ![](images/q4.png)
 
 1. ```sql
