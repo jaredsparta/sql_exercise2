@@ -47,8 +47,9 @@
 3. ```sql
     SELECT COUNT(OrderID) FROM Orders WHERE EmployeeID = 5 OR EmployeeID = 7;
     ```
-    
-    ![](images/a6.png)
+ANSWER : 114
+
+![](images/a6.png)
 
 <br>
 
