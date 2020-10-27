@@ -50,7 +50,7 @@
     
     ![](images/a6.png)
 
-    <br>
+<br>
 
 # Question 3
 ![](images/q3.png)
